@@ -44,3 +44,13 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
+print("aaaaaaaaaaaaaaaaaaaaaaaaa")
